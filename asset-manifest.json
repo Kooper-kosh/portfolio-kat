@@ -1,7 +1,7 @@
 {
   "main.css": "/portfolio-kat/static/css/main.a43abed4.chunk.css",
-  "main.js": "/portfolio-kat/static/js/main.880da30e.chunk.js",
-  "main.js.map": "/portfolio-kat/static/js/main.880da30e.chunk.js.map",
+  "main.js": "/portfolio-kat/static/js/main.6a62d7a1.chunk.js",
+  "main.js.map": "/portfolio-kat/static/js/main.6a62d7a1.chunk.js.map",
   "static/css/1.73c455ea.chunk.css": "/portfolio-kat/static/css/1.73c455ea.chunk.css",
   "static/js/1.72f5baf1.chunk.js": "/portfolio-kat/static/js/1.72f5baf1.chunk.js",
   "static/js/1.72f5baf1.chunk.js.map": "/portfolio-kat/static/js/1.72f5baf1.chunk.js.map",
@@ -45,13 +45,13 @@
   "static/media/App.css": "/portfolio-kat/static/media/bg-3.3f2f75c6.jpg",
   "static/media/katdp-transformed.png": "/portfolio-kat/static/media/katdp-transformed.7122371d.png",
   "static/media/meter1.svg": "/portfolio-kat/static/media/meter1.dea05c56.svg",
-  "static/media/styles.css": "/portfolio-kat/static/media/revicons.2feb69cc.eot",
+  "static/media/styles.css": "/portfolio-kat/static/media/revicons.17629a5d.ttf",
   "static/media/arrow1.svg": "/portfolio-kat/static/media/arrow1.f750170a.svg",
   "static/media/arrow2.svg": "/portfolio-kat/static/media/arrow2.9070490b.svg",
   "static/media/PLV_IntroductionToProgressiveWebApps.JPG": "/portfolio-kat/static/media/PLV_IntroductionToProgressiveWebApps.5841e8a4.JPG",
   "static/css/main.a43abed4.chunk.css.map": "/portfolio-kat/static/css/main.a43abed4.chunk.css.map",
   "static/css/1.73c455ea.chunk.css.map": "/portfolio-kat/static/css/1.73c455ea.chunk.css.map",
   "index.html": "/portfolio-kat/index.html",
-  "precache-manifest.eb18b114db73e328fc9714b4ccd1d70d.js": "/portfolio-kat/precache-manifest.eb18b114db73e328fc9714b4ccd1d70d.js",
+  "precache-manifest.b53cbfbb39c2d2dc8944516bd319dcd0.js": "/portfolio-kat/precache-manifest.b53cbfbb39c2d2dc8944516bd319dcd0.js",
   "service-worker.js": "/portfolio-kat/service-worker.js"
 }
